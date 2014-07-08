@@ -1,0 +1,26 @@
+
+#honeycomb {
+	width:940px;
+	margin:0px auto;
+}
+
+#row-1 {
+	margin-top:0px;
+}
+
+.row {
+	width:100%;
+	text-align: center;
+	margin:0px auto;
+	margin-top:-16px;
+}
+
+.tiles {
+	height:64px;
+	padding:0px 0px;
+	opacity:1;
+}
+
+.tiles:hover {
+	opacity:.5;
+}
